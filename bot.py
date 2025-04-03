@@ -28,7 +28,7 @@ def start(client, message):
         "◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ Fɪʟᴇ Rᴇɴᴀᴍᴇʀ Bᴏᴛ.\n"
         "◈ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇs, Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟs, Cᴏɴᴠᴇʀᴛ Bᴇᴛᴡᴇᴇɴ Vɪᴅᴇᴏ Aɴᴅ Fɪʟᴇ, "
         "Aɴᴅ Sᴜᴘᴘᴏʀᴛ Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟs Aɴᴅ Cᴀᴘᴛɪᴏɴs.\n\n"
-        "• Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @YourUsername"
+        "• Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @Uzumaki_X_Naruto_6"
     )
     # Inline buttons: 3 buttons (Rename File, Change Thumbnail, Convert)
     buttons = [
