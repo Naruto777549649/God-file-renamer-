@@ -1,4 +1,5 @@
-import subprocess import os
+import subprocess 
+import os
 
 def change_thumbnail(video_path, thumbnail_path, new_file_name): """ FFmpeg ka use karke video file ka thumbnail change karta hai. """ directory = os.path.dirname(video_path) output_path = os.path.join(directory, new_file_name)
 
