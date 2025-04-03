@@ -6,4 +6,4 @@ API_ID = 25698862         # Apna API_ID yahan daalein
 API_HASH = "7d7739b44f5f8c825d48cc6787889dbc"
 
 # Welcome image file (ensure this file exists in the project folder)
-WELCOME_IMAGE = "https://iili.io/3uMCKut.md.jpg"
+WELCOME_IMAGE = "https://files.catbox.moe/oijuuz.jpg"
