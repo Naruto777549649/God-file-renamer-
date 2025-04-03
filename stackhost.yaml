@@ -2,7 +2,7 @@ user:
   name: Naruto
   github: Naruto777549649
 
-language: "python"
+language: "python3 -m SPY"
 python_version: "3.10"
 
 commands:
