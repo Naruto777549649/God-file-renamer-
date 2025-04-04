@@ -19,8 +19,8 @@ async def start(bot, message):
         "https://telegra.ph/file/valid-image-url.jpg",  # Ensure this is a valid URL
         caption=f"Hᴀɪ {message.from_user.mention}\n\n◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ Fɪʟᴇ Rᴇɴᴀᴍᴇʀ Bᴏᴛ.",
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton("🔹 Updates", url="https://t.me/your_channel")],
-            [InlineKeyboardButton("🔹 Support", url="https://t.me/your_support")],
+            [InlineKeyboardButton("🔹 Updates", url="https://t.me/+xaA4ejo7iQRmNDI1")],
+            [InlineKeyboardButton("🔹 Support", url="https://t.me/+N0de6KvTfXllMTdl")],
             [InlineKeyboardButton("🔹 About", callback_data="about")]
         ])
     )
